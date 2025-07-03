@@ -4,7 +4,7 @@
   <a href="https://www.instagram.com/nguyenkhanggg_/">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>
   </a><span>&nbsp;</span>
-  <a href="mailto:tranquocnguyenkhang29com">
+  <a href="mailto:tranquocnguyenkhang29.com">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   </a><span>&nbsp;</span>
   <a href="https://github.com/KenvinTran9">
