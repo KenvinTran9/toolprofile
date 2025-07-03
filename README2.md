@@ -18,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://www.instagram.com/nguyenkhanggg_/><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"> Nguyen Khang</a>
+<a href="https://www.instagram.com/nguyenkhanggg_/"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"> Nguyen Khang</a>
 
-<a href=""><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"> Nguyen Khang</a>
+<a href="mailto:tranquocnguyenkhang29.com"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"> Nguyen Khang</a>
 
 <hr>
 
